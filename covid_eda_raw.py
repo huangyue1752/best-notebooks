@@ -21,6 +21,7 @@ df = df[df.iso_code == 'USA']\
      .fillna(0)
 
 display(df)
+display(df)
 
 # COMMAND ----------
 
